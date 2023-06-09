@@ -1,5 +1,5 @@
 # Sistema de cadastro 🖥
-Aprenda como criar um fantástico sistema com:
+Conectado com um banco de dados, com esse codigo somos capazes de fazer cadastros, login, listar registros, editar e deletar do banco de dados. Além de termos uma lógica de verificação de sessão, incluindo um botão de "Sair".
 <br>
 <ul>
   <li>Tela de Home</li>
